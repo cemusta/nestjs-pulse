@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [1.0.8](https://github.com/cemusta/nestjs-pulse/compare/v1.0.7...v1.0.8) (2025-02-12)
+
+### 🚀 FEATURES
+
+* support nestjs version 11 ([#9](https://github.com/cemusta/nestjs-pulse/issues/9)) ([36563c9](https://github.com/cemusta/nestjs-pulse/commit/36563c9230a5ed005ef324a04f531db19f94477c))
+
+### 🐛 BUG FIXES
+
+* changing package name ([827c60a](https://github.com/cemusta/nestjs-pulse/commit/827c60a4adf1e01e50e2eea251be74fa7d0ac702))
+* update documentation ([82bc000](https://github.com/cemusta/nestjs-pulse/commit/82bc000ad77f34049b0c9b3a12f667401baa5e42))
+
 ## [1.0.7](https://github.com/pulsecron/nestjs-pulse/compare/v1.0.6...v1.0.7) (2024-05-07)
 
 
