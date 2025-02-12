@@ -40,6 +40,8 @@
 
 [Pulse](https://github.com/pulsecron/pulse) module for [NestJS](https://nestjs.com/)
 
+Semantic version commits are used to keep track of changes in the library. If you don't use correct commits, release wont be triggered.
+
 ---
 <br/>
 <br/>
