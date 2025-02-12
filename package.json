@@ -1,5 +1,5 @@
 {
-  "name": "@pulsecron/nestjs-pulse",
+  "name": "@cemusta/nestjs-pulse",
   "version": "1.0.7",
   "description": "The modern MongoDB-powered scheduling library pulse for NestJS",
   "main": "dist/index.js",
@@ -28,7 +28,7 @@
   "homepage": "https://pulsecron.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pulsecron/nestjs-pulse.git"
+    "url": "https://github.com/cemusta/nestjs-pulse.git"
   },
   "keywords": [
     "job",
