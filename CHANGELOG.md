@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.9](https://github.com/cemusta/nestjs-pulse/compare/v1.0.8...v1.0.9) (2025-03-06)
+
+### 🐛 BUG FIXES
+
+* removed peer dependency, mongodb-memory-server ([09e9214](https://github.com/cemusta/nestjs-pulse/commit/09e9214ee274c232875c5327df1fdb870703b28a))
+
 ## [1.0.8](https://github.com/cemusta/nestjs-pulse/compare/v1.0.7...v1.0.8) (2025-02-12)
 
 ### 🚀 FEATURES
